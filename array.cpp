@@ -56,6 +56,7 @@ int main()
     case 6:
         DeleteAtPos();
         break;
+        
     default:
         break;
     }
